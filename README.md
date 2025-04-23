@@ -26,3 +26,4 @@ A full-stack real-time chat application built using **React**, **Node.js**, **So
 ```bash
 git clone https://github.com/vmangili19/chat-app-react-nodejs.git
 cd chat-app-react-nodejs
+# chat-app-react-nodejs
